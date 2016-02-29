@@ -1,0 +1,2 @@
+# AoDaMiaoTetris
+使用QT里面的动画框架+Phonon框架编写的嗷大喵版俄罗斯方块小游戏
